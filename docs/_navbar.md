@@ -1,0 +1,7 @@
+- 다른 언어로 보기
+  - [:uk: English](/)
+  - [:cn: 中文](/zh-cn/)
+  - [:de: Deutsch](/de-de/)
+  - [:es: Spanish](/es/)
+  - [:ru: Russian](/ru/)
+  - [🇰🇷 한국어](/kr/)
